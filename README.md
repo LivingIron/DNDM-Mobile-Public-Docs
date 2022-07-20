@@ -17,7 +17,7 @@ _News and documentation about the DNDM-Mobile project_
 Currently the app is available on the google play store , iOS support coming soon 
 | Platform | Link |
 | ------ | ------ |
-| Android | [Waiting for Review](https://www.google.com) |
+| Android | [Google Play store](https://play.google.com/store/apps/details?id=com.dndm) |
 | iOS | [Waiting for Review](https://www.google.com) |
 
 
