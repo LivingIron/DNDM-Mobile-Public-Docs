@@ -23,7 +23,7 @@ Currently the app is available on the google play store , iOS support coming soo
 
 ## Support
 
-You can currently support the project through https://donorbox.org/dndm-donation
+You can currently support the project through https://ko-fi.com/livingiron
 
 ## Tech
 
