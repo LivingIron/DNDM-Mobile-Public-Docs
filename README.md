@@ -9,6 +9,8 @@ _News and documentation about the DNDM-Mobile project_
 ### Features:
 - Make and save dice presets
 - Browse SRD Spells and create your own homebrew spells
+- Brose SRD Magical items / monster and create your own
+- Initiative trackers
 - Create a character and modify it in real time 
 - Create notes 
 
